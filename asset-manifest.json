@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/courseweb/static/js/main.da763321.chunk.js",
+    "main.js.map": "/courseweb/static/js/main.da763321.chunk.js.map",
+    "runtime-main.js": "/courseweb/static/js/runtime-main.5a506cf7.js",
+    "runtime-main.js.map": "/courseweb/static/js/runtime-main.5a506cf7.js.map",
+    "static/js/2.7cdb63d3.chunk.js": "/courseweb/static/js/2.7cdb63d3.chunk.js",
+    "static/js/2.7cdb63d3.chunk.js.map": "/courseweb/static/js/2.7cdb63d3.chunk.js.map",
+    "index.html": "/courseweb/index.html",
+    "precache-manifest.215a1eda96c9a5ee6268093798ccc8da.js": "/courseweb/precache-manifest.215a1eda96c9a5ee6268093798ccc8da.js",
+    "service-worker.js": "/courseweb/service-worker.js",
+    "static/js/2.7cdb63d3.chunk.js.LICENSE.txt": "/courseweb/static/js/2.7cdb63d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a506cf7.js",
+    "static/js/2.7cdb63d3.chunk.js",
+    "static/js/main.da763321.chunk.js"
+  ]
+}
